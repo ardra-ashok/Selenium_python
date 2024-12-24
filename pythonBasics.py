@@ -102,7 +102,15 @@ while i>1:
         print(i)
     i-=1
 
+def greetMe(name):
+    print("Good morning "+name)
 
+def sum(a,b):
+    return a+b
+
+print(sum(3,6))
+
+greetMe("piya")
 
 
 
